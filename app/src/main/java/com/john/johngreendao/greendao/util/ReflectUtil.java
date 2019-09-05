@@ -1,6 +1,5 @@
 package com.john.johngreendao.greendao.util;
 
-import android.util.Log;
 
 import com.john.johngreendao.greendao.entity.User;
 
