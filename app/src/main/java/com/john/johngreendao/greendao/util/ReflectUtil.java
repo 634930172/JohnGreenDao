@@ -7,7 +7,7 @@ import com.john.johngreendao.greendao.entity.User;
 import java.lang.reflect.Field;
 
 /**
- * Author: John test的提交  test1 test2 test3 test4 test5
+ * Author: John test的提交  test1 test2 test3 test4 test5 test6 test7
  * E-mail: 634930172@qq.com
  * Date: 2018/7/17 11:03
  * <p/>
