@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * Author: John
- * E-mail: 634930172@qq.com test3 test4 test5 test6 test7
+ * E-mail: 634930172@qq.com
  * Date: 2018/7/17 10:42
  * <p/>
  * Description:用于展示数据的Adapter
