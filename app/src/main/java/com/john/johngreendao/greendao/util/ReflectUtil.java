@@ -6,8 +6,8 @@ import com.john.johngreendao.greendao.entity.User;
 import java.lang.reflect.Field;
 
 /**
- * Author: John --- 111 222 333
- * E-mail: 634930172@qq.com 111 222 333
+ * Author: John
+ * E-mail: 634930172@qq.com
  * Date: 2018/7/17 11:03
  * <p/>
  * Description:反射工具类 为了便于展示数据
