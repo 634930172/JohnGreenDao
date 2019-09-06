@@ -6,15 +6,13 @@ import com.john.johngreendao.greendao.entity.User;
 import java.lang.reflect.Field;
 
 /**
- * Author: John
+ * Author: John ---
  * E-mail: 634930172@qq.com
  * Date: 2018/7/17 11:03
  * <p/>
  * Description:反射工具类 为了便于展示数据
  */
 public class ReflectUtil {
-
-    private static final String TAG = "ReflectUtil";
 
     public static String getDataText(User user) {
         Class<? extends User> aClass = user.getClass();
